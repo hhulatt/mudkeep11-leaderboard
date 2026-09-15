@@ -5,6 +5,7 @@
   "cycleMode": "monthly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
+  "fullUsernames": true,
   "prizePool": 250,
   "prizes": [
     100,
@@ -14,56 +15,56 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 568.58,
+  "totalWagered": 611.47,
   "playerCount": 7,
-  "cacheUpdatedAt": "2026-09-14 04:19:41",
-  "updatedAt": "2026-09-14T04:19:41.268Z",
+  "cacheUpdatedAt": "2026-09-15 01:13:33",
+  "updatedAt": "2026-09-15T01:13:34.019Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "ro**********ld",
+      "masked": "robertothewrld",
       "hash": "f8e6437c716f69f8",
       "wagered": 242.94,
       "prize": 100
     },
     {
       "rank": 2,
-      "masked": "ra******01",
+      "masked": "rainrain01",
       "hash": "1b4580dffe2a9961",
-      "wagered": 116.59,
+      "wagered": 152.69,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "sk*****tv",
+      "masked": "skillsytv",
       "hash": "b3e7bbaa638cc11d",
-      "wagered": 92.13,
+      "wagered": 98.92,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "Mu******an",
+      "masked": "Mudalarian",
       "hash": "95a2447c71cf2364",
       "wagered": 58.8,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "we*********ma",
+      "masked": "wembangyamama",
       "hash": "0b803e8f4358f036",
       "wagered": 40.62,
       "prize": 20
     },
     {
       "rank": 6,
-      "masked": "We*****00",
+      "masked": "WeWin1000",
       "hash": "aa99f9d3ac173042",
       "wagered": 17,
       "prize": 0
     },
     {
       "rank": 7,
-      "masked": "mu*****un",
+      "masked": "mudkunkun",
       "hash": "29987606cf3d7e1d",
       "wagered": 0.5,
       "prize": 0
