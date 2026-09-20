@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 716.01,
+  "totalWagered": 716.07,
   "playerCount": 7,
-  "cacheUpdatedAt": "2026-09-20 00:44:48",
-  "updatedAt": "2026-09-20T00:44:48.351Z",
+  "cacheUpdatedAt": "2026-09-20 04:21:52",
+  "updatedAt": "2026-09-20T04:21:52.386Z",
   "entries": [
     {
       "rank": 1,
@@ -38,7 +38,7 @@
       "rank": 3,
       "masked": "Mudalarian",
       "hash": "95a2447c71cf2364",
-      "wagered": 122.58,
+      "wagered": 122.64,
       "prize": 40
     },
     {
