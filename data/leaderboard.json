@@ -15,16 +15,16 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 815.32,
-  "playerCount": 7,
-  "cacheUpdatedAt": "2026-09-21 04:19:30",
-  "updatedAt": "2026-09-21T04:19:30.287Z",
+  "totalWagered": 1072.36,
+  "playerCount": 9,
+  "cacheUpdatedAt": "2026-09-22 01:28:16",
+  "updatedAt": "2026-09-22T01:28:16.636Z",
   "entries": [
     {
       "rank": 1,
       "masked": "rainrain01",
       "hash": "1b4580dffe2a9961",
-      "wagered": 273.81,
+      "wagered": 290.97,
       "prize": 100
     },
     {
@@ -36,34 +36,48 @@
     },
     {
       "rank": 3,
-      "masked": "Mudalarian",
-      "hash": "95a2447c71cf2364",
-      "wagered": 122.65,
+      "masked": "Solvhoj2001",
+      "hash": "be88580e6f874819",
+      "wagered": 206.79,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "skillsytv",
-      "hash": "b3e7bbaa638cc11d",
-      "wagered": 102.81,
+      "masked": "Mudalarian",
+      "hash": "95a2447c71cf2364",
+      "wagered": 122.65,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "wembangyamama",
-      "hash": "0b803e8f4358f036",
-      "wagered": 40.62,
+      "masked": "skillsytv",
+      "hash": "b3e7bbaa638cc11d",
+      "wagered": 102.81,
       "prize": 20
     },
     {
       "rank": 6,
+      "masked": "wembangyamama",
+      "hash": "0b803e8f4358f036",
+      "wagered": 40.62,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "kruntul",
+      "hash": "cc5cd02ba823a8b0",
+      "wagered": 33.08,
+      "prize": 0
+    },
+    {
+      "rank": 8,
       "masked": "WeWin1000",
       "hash": "aa99f9d3ac173042",
       "wagered": 17,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 9,
       "masked": "mudkunkun",
       "hash": "29987606cf3d7e1d",
       "wagered": 0.5,
