@@ -1,0 +1,21 @@
+{
+  "cycle": "2026-10-05",
+  "periodStart": "2026-10-05",
+  "periodEnd": "2026-10-11",
+  "cycleMode": "weekly",
+  "cycleStartDay": 1,
+  "timezone": "Europe/London",
+  "prizePool": 35,
+  "prizes": [
+    20,
+    10,
+    5
+  ],
+  "boardSize": 25,
+  "totalWagered": 0,
+  "playerCount": 0,
+  "cacheUpdatedAt": null,
+  "updatedAt": "2026-10-04T23:02:55.516Z",
+  "entries": [],
+  "_seed": "Placeholder written by new-creator.mjs so the weekly tab renders before the first scheduled refresh. The workflow overwrites this."
+}
