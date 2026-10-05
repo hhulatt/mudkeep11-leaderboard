@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 1340.36,
+  "totalWagered": 1340.49,
   "playerCount": 7,
-  "cacheUpdatedAt": "2026-10-05 01:41:14",
-  "updatedAt": "2026-10-05T01:41:14.126Z",
+  "cacheUpdatedAt": "2026-10-05 04:59:48",
+  "updatedAt": "2026-10-05T04:59:48.494Z",
   "entries": [
     {
       "rank": 1,
@@ -52,7 +52,7 @@
       "rank": 5,
       "masked": "skillsytv",
       "hash": "b3e7bbaa638cc11d",
-      "wagered": 3.36,
+      "wagered": 3.49,
       "prize": 20
     },
     {
