@@ -13,48 +13,55 @@
     5
   ],
   "boardSize": 25,
-  "totalWagered": 431.87,
-  "playerCount": 6,
-  "cacheUpdatedAt": "2026-10-09 05:32:15",
-  "updatedAt": "2026-10-09T05:32:15.190Z",
+  "totalWagered": 555.16,
+  "playerCount": 7,
+  "cacheUpdatedAt": "2026-10-10 02:09:01",
+  "updatedAt": "2026-10-10T02:09:01.439Z",
   "entries": [
     {
       "rank": 1,
       "masked": "rainrain01",
       "hash": "1b4580dffe2a9961",
-      "wagered": 281.47,
+      "wagered": 301.94,
       "prize": 20
     },
     {
       "rank": 2,
       "masked": "Dinfar2003",
       "hash": "8e4bb5e0aa1ab13e",
-      "wagered": 146.02,
+      "wagered": 146.21,
       "prize": 10
     },
     {
       "rank": 3,
-      "masked": "kruntul",
-      "hash": "cc5cd02ba823a8b0",
-      "wagered": 3.75,
+      "masked": "DoctorHamburger",
+      "hash": "e09a377d05bde455",
+      "wagered": 102.64,
       "prize": 5
     },
     {
       "rank": 4,
+      "masked": "kruntul",
+      "hash": "cc5cd02ba823a8b0",
+      "wagered": 3.75,
+      "prize": 0
+    },
+    {
+      "rank": 5,
       "masked": "Mudalarian",
       "hash": "95a2447c71cf2364",
       "wagered": 0.35,
       "prize": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "masked": "skillsytv",
       "hash": "b3e7bbaa638cc11d",
       "wagered": 0.14,
       "prize": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "masked": "robertothewrld",
       "hash": "f8e6437c716f69f8",
       "wagered": 0.13,
