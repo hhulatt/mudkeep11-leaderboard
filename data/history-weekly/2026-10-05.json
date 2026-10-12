@@ -1,0 +1,85 @@
+{
+  "cycle": "2026-10-05",
+  "periodStart": "2026-10-05",
+  "periodEnd": "2026-10-11",
+  "cycleMode": "weekly",
+  "cycleStartDay": 1,
+  "timezone": "Europe/London",
+  "fullUsernames": true,
+  "prizePool": 35,
+  "prizes": [
+    20,
+    10,
+    5
+  ],
+  "boardSize": 25,
+  "totalWagered": 604.61,
+  "playerCount": 9,
+  "cacheUpdatedAt": "2026-10-12 02:08:02",
+  "updatedAt": "2026-10-12T02:08:02.260Z",
+  "entries": [
+    {
+      "rank": 1,
+      "masked": "rainrain01",
+      "hash": "1b4580dffe2a9961",
+      "wagered": 311.52,
+      "prize": 20
+    },
+    {
+      "rank": 2,
+      "masked": "Dinfar2003",
+      "hash": "8e4bb5e0aa1ab13e",
+      "wagered": 146.21,
+      "prize": 10
+    },
+    {
+      "rank": 3,
+      "masked": "DoctorHamburger",
+      "hash": "e09a377d05bde455",
+      "wagered": 102.64,
+      "prize": 5
+    },
+    {
+      "rank": 4,
+      "masked": "kruntul",
+      "hash": "cc5cd02ba823a8b0",
+      "wagered": 19.57,
+      "prize": 0
+    },
+    {
+      "rank": 5,
+      "masked": "mihjalomadnic21",
+      "hash": "040c81ad7db8cc05",
+      "wagered": 17.3,
+      "prize": 0
+    },
+    {
+      "rank": 6,
+      "masked": "Dubcounty",
+      "hash": "1674feba91bd8895",
+      "wagered": 6.75,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "Mudalarian",
+      "hash": "95a2447c71cf2364",
+      "wagered": 0.35,
+      "prize": 0
+    },
+    {
+      "rank": 8,
+      "masked": "skillsytv",
+      "hash": "b3e7bbaa638cc11d",
+      "wagered": 0.14,
+      "prize": 0
+    },
+    {
+      "rank": 9,
+      "masked": "robertothewrld",
+      "hash": "f8e6437c716f69f8",
+      "wagered": 0.13,
+      "prize": 0
+    }
+  ]
+}
