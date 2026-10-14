@@ -5,7 +5,7 @@
   "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
-  "fullUsernames": true,
+  "fullUsernames": false,
   "prizePool": 35,
   "prizes": [
     20,
@@ -13,44 +13,58 @@
     5
   ],
   "boardSize": 25,
-  "totalWagered": 203,
-  "playerCount": 5,
-  "cacheUpdatedAt": "2026-10-14 04:20:44",
-  "updatedAt": "2026-10-14T04:20:44.050Z",
+  "totalWagered": 252.77,
+  "playerCount": 7,
+  "cacheUpdatedAt": "2026-10-14 15:50:51",
+  "updatedAt": "2026-10-14T15:50:51.733Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "rainrain01",
+      "masked": "ra******01",
       "hash": "1b4580dffe2a9961",
-      "wagered": 115.13,
+      "wagered": 115.17,
       "prize": 20
     },
     {
       "rank": 2,
-      "masked": "Dinfar2003",
+      "masked": "Di******03",
       "hash": "8e4bb5e0aa1ab13e",
       "wagered": 66.83,
       "prize": 10
     },
     {
       "rank": 3,
-      "masked": "DoctorHamburger",
-      "hash": "e09a377d05bde455",
-      "wagered": 9.15,
+      "masked": "ev********ep",
+      "hash": "e66d12a6d9b2364a",
+      "wagered": 43.94,
       "prize": 5
     },
     {
       "rank": 4,
-      "masked": "RKking711",
+      "masked": "RK*****11",
       "hash": "5e788a0939a8f60a",
-      "wagered": 8,
+      "wagered": 13.22,
       "prize": 0
     },
     {
       "rank": 5,
-      "masked": "kruntul",
+      "masked": "Do***********er",
+      "hash": "e09a377d05bde455",
+      "wagered": 9.44,
+      "prize": 0
+    },
+    {
+      "rank": 6,
+      "masked": "kr***ul",
       "hash": "cc5cd02ba823a8b0",
       "wagered": 3.89,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "Mu******an",
+      "hash": "95a2447c71cf2364",
+      "wagered": 0.28,
       "prize": 0
     }
   ]
