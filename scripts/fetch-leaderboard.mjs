@@ -43,7 +43,7 @@ const FIRST_CYCLE = '2026-09-01';
 /* A weekly board runs alongside the monthly one when the creator funds one.
    It has its own pool, its own archive and its own first cycle; everything
    else — masking, ranking, the board shape — is shared. */
-const WEEKLY_ENABLED = true;
+const WEEKLY_ENABLED = false;
 const WEEKLY_PRIZES = [20,10,5];
 const WEEKLY_BOARD_SIZE = 25;
 const WEEKLY_FIRST_CYCLE = '2026-10-05';
@@ -149,7 +149,7 @@ function weekBefore(week) {
  * which is what most casino leaderboards do - and which cannot be undone for
  * anyone who has already been published.
  */
-const SHOW_FULL_USERNAMES = false;
+const SHOW_FULL_USERNAMES = true;
 
 function maskUsername(name) {
   if (SHOW_FULL_USERNAMES) return name;
