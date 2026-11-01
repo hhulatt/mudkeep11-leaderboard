@@ -1,0 +1,115 @@
+{
+  "cycle": "2026-10-01",
+  "periodStart": "2026-10-01",
+  "periodEnd": "2026-10-31",
+  "cycleMode": "monthly",
+  "cycleStartDay": 1,
+  "timezone": "Europe/London",
+  "fullUsernames": true,
+  "prizePool": 250,
+  "prizes": [
+    100,
+    60,
+    40,
+    30,
+    20
+  ],
+  "boardSize": 25,
+  "totalWagered": 4382.2,
+  "playerCount": 13,
+  "cacheUpdatedAt": "2026-11-01 01:55:50",
+  "updatedAt": "2026-11-01T01:55:50.535Z",
+  "entries": [
+    {
+      "rank": 1,
+      "masked": "robertothewrld",
+      "hash": "f8e6437c716f69f8",
+      "wagered": 1861.17,
+      "prize": 100
+    },
+    {
+      "rank": 2,
+      "masked": "rainrain01",
+      "hash": "1b4580dffe2a9961",
+      "wagered": 1260.53,
+      "prize": 60
+    },
+    {
+      "rank": 3,
+      "masked": "Mudalarian",
+      "hash": "95a2447c71cf2364",
+      "wagered": 465.67,
+      "prize": 40
+    },
+    {
+      "rank": 4,
+      "masked": "evskeypxkeep",
+      "hash": "e66d12a6d9b2364a",
+      "wagered": 249,
+      "prize": 30
+    },
+    {
+      "rank": 5,
+      "masked": "Dinfar2003",
+      "hash": "8e4bb5e0aa1ab13e",
+      "wagered": 213.57,
+      "prize": 20
+    },
+    {
+      "rank": 6,
+      "masked": "DoctorHamburger",
+      "hash": "e09a377d05bde455",
+      "wagered": 113.09,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "mihjalomadnic21",
+      "hash": "040c81ad7db8cc05",
+      "wagered": 89.93,
+      "prize": 0
+    },
+    {
+      "rank": 8,
+      "masked": "kruntul",
+      "hash": "cc5cd02ba823a8b0",
+      "wagered": 67.92,
+      "prize": 0
+    },
+    {
+      "rank": 9,
+      "masked": "RKking711",
+      "hash": "5e788a0939a8f60a",
+      "wagered": 43.34,
+      "prize": 0
+    },
+    {
+      "rank": 10,
+      "masked": "BoydcavenMDKP",
+      "hash": "9efc23be54d69abf",
+      "wagered": 7.23,
+      "prize": 0
+    },
+    {
+      "rank": 11,
+      "masked": "Dubcounty",
+      "hash": "1674feba91bd8895",
+      "wagered": 6.75,
+      "prize": 0
+    },
+    {
+      "rank": 12,
+      "masked": "skillsytv",
+      "hash": "b3e7bbaa638cc11d",
+      "wagered": 3.5,
+      "prize": 0
+    },
+    {
+      "rank": 13,
+      "masked": "mudkunkun",
+      "hash": "29987606cf3d7e1d",
+      "wagered": 0.5,
+      "prize": 0
+    }
+  ]
+}
