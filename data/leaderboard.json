@@ -15,16 +15,16 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 998.09,
+  "totalWagered": 998.5,
   "playerCount": 8,
-  "cacheUpdatedAt": "2026-11-05 05:59:11",
-  "updatedAt": "2026-11-05T05:59:11.798Z",
+  "cacheUpdatedAt": "2026-11-06 03:15:38",
+  "updatedAt": "2026-11-06T03:15:38.331Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Dinfar2003",
       "hash": "8e4bb5e0aa1ab13e",
-      "wagered": 474.27,
+      "wagered": 474.66,
       "prize": 100
     },
     {
@@ -38,7 +38,7 @@
       "rank": 3,
       "masked": "rainrain01",
       "hash": "1b4580dffe2a9961",
-      "wagered": 113.76,
+      "wagered": 113.78,
       "prize": 40
     },
     {
