@@ -15,72 +15,79 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 1046.26,
-  "playerCount": 9,
-  "cacheUpdatedAt": "2026-11-09 05:38:35",
-  "updatedAt": "2026-11-09T05:38:36.029Z",
+  "totalWagered": 1434.23,
+  "playerCount": 10,
+  "cacheUpdatedAt": "2026-11-10 04:30:05",
+  "updatedAt": "2026-11-10T04:30:05.651Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Dinfar2003",
       "hash": "8e4bb5e0aa1ab13e",
-      "wagered": 477.88,
+      "wagered": 477.99,
       "prize": 100
     },
     {
       "rank": 2,
-      "masked": "robertothewrld",
-      "hash": "f8e6437c716f69f8",
-      "wagered": 261.06,
+      "masked": "Phunkyshotz",
+      "hash": "218a432987c29fc7",
+      "wagered": 370.25,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "rainrain01",
-      "hash": "1b4580dffe2a9961",
-      "wagered": 114.03,
+      "masked": "robertothewrld",
+      "hash": "f8e6437c716f69f8",
+      "wagered": 261.11,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "Mudalarian",
-      "hash": "95a2447c71cf2364",
-      "wagered": 94.47,
+      "masked": "rainrain01",
+      "hash": "1b4580dffe2a9961",
+      "wagered": 117.5,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "Dubcounty",
-      "hash": "1674feba91bd8895",
-      "wagered": 29.71,
+      "masked": "Mudalarian",
+      "hash": "95a2447c71cf2364",
+      "wagered": 108.38,
       "prize": 20
     },
     {
       "rank": 6,
+      "masked": "Dubcounty",
+      "hash": "1674feba91bd8895",
+      "wagered": 29.71,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "codyx33",
       "hash": "abe5e7571f8ab3c2",
       "wagered": 26.01,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "evskeypxkeep",
       "hash": "e66d12a6d9b2364a",
       "wagered": 25.3,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "RKking711",
       "hash": "5e788a0939a8f60a",
       "wagered": 16.33,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "kruntul",
       "hash": "cc5cd02ba823a8b0",
-      "wagered": 1.48,
+      "wagered": 1.65,
       "prize": 0
     }
   ]
