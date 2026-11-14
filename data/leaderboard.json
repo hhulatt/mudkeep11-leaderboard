@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 1446.23,
+  "totalWagered": 1456.8,
   "playerCount": 10,
-  "cacheUpdatedAt": "2026-11-13 05:57:46",
-  "updatedAt": "2026-11-13T05:57:46.144Z",
+  "cacheUpdatedAt": "2026-11-14 02:55:52",
+  "updatedAt": "2026-11-14T02:55:52.386Z",
   "entries": [
     {
       "rank": 1,
@@ -87,7 +87,7 @@
       "rank": 10,
       "masked": "kruntul",
       "hash": "cc5cd02ba823a8b0",
-      "wagered": 1.65,
+      "wagered": 12.23,
       "prize": 0
     }
   ]
