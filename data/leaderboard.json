@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 2178.61,
+  "totalWagered": 2300.42,
   "playerCount": 10,
-  "cacheUpdatedAt": "2026-11-20 06:39:19",
-  "updatedAt": "2026-11-20T06:39:19.303Z",
+  "cacheUpdatedAt": "2026-11-21 03:48:30",
+  "updatedAt": "2026-11-21T03:48:30.110Z",
   "entries": [
     {
       "rank": 1,
@@ -38,7 +38,7 @@
       "rank": 3,
       "masked": "robertothewrld",
       "hash": "f8e6437c716f69f8",
-      "wagered": 261.11,
+      "wagered": 347.3,
       "prize": 40
     },
     {
@@ -50,16 +50,16 @@
     },
     {
       "rank": 5,
-      "masked": "Mudalarian",
-      "hash": "95a2447c71cf2364",
-      "wagered": 198.53,
+      "masked": "Dubcounty",
+      "hash": "1674feba91bd8895",
+      "wagered": 205.06,
       "prize": 20
     },
     {
       "rank": 6,
-      "masked": "Dubcounty",
-      "hash": "1674feba91bd8895",
-      "wagered": 169.44,
+      "masked": "Mudalarian",
+      "hash": "95a2447c71cf2364",
+      "wagered": 198.53,
       "prize": 0
     },
     {
