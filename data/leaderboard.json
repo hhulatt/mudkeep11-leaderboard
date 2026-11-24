@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 2321.32,
-  "playerCount": 10,
-  "cacheUpdatedAt": "2026-11-23 06:52:06",
-  "updatedAt": "2026-11-23T06:52:06.372Z",
+  "totalWagered": 2433.23,
+  "playerCount": 11,
+  "cacheUpdatedAt": "2026-11-24 06:47:55",
+  "updatedAt": "2026-11-24T06:47:55.842Z",
   "entries": [
     {
       "rank": 1,
@@ -43,48 +43,55 @@
     },
     {
       "rank": 4,
-      "masked": "rainrain01",
-      "hash": "1b4580dffe2a9961",
-      "wagered": 249.26,
+      "masked": "Mudalarian",
+      "hash": "95a2447c71cf2364",
+      "wagered": 282.13,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "Dubcounty",
-      "hash": "1674feba91bd8895",
-      "wagered": 205.06,
+      "masked": "rainrain01",
+      "hash": "1b4580dffe2a9961",
+      "wagered": 249.26,
       "prize": 20
     },
     {
       "rank": 6,
-      "masked": "Mudalarian",
-      "hash": "95a2447c71cf2364",
-      "wagered": 198.64,
+      "masked": "Dubcounty",
+      "hash": "1674feba91bd8895",
+      "wagered": 205.06,
       "prize": 0
     },
     {
       "rank": 7,
       "masked": "RKking711",
       "hash": "5e788a0939a8f60a",
-      "wagered": 34.92,
+      "wagered": 35.07,
       "prize": 0
     },
     {
       "rank": 8,
+      "masked": "e2xs",
+      "hash": "5896e236f87ab5ce",
+      "wagered": 28.27,
+      "prize": 0
+    },
+    {
+      "rank": 9,
       "masked": "codyx33",
       "hash": "abe5e7571f8ab3c2",
       "wagered": 26.51,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "evskeypxkeep",
       "hash": "e66d12a6d9b2364a",
       "wagered": 25.3,
       "prize": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "masked": "kruntul",
       "hash": "cc5cd02ba823a8b0",
       "wagered": 12.23,
